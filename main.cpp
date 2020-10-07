@@ -21,7 +21,7 @@ int main()
         window.clear(Color::Black);
 
         //Create circle shape 
-        CircleShape shape(50.0f);
+        CircleShape shape(150.0f);
         shape.setFillColor(Color(100,150,250));     //Set color to the circle
         
         //Draw object 'shape'

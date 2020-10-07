@@ -1,1 +1,2 @@
 E:\Programming Exercises\SFML_Learning\Release\SFML_Learning.exe
+E:\SFML\SFML_Learning\Release\SFML_Learning.exe

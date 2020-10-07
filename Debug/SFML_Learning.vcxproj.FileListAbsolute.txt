@@ -1,2 +1,4 @@
 E:\Programming Exercises\SFML_Learning\Debug\SFML_Learning.exe
 E:\Programming Exercises\SFML_Learning\Debug\SFML_Learning.pdb
+E:\SFML\SFML_Learning\Debug\SFML_Learning.exe
+E:\SFML\SFML_Learning\Debug\SFML_Learning.pdb

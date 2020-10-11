@@ -32,7 +32,7 @@ int main()
         }
 
         //clear the window with a black color
-        //window.clear(Color::Black);
+        window.clear(Color::Black);
 
         if (Mouse::isButtonPressed(Mouse::Left)) {
             Vector2i mousePos = Mouse::getPosition(window);
